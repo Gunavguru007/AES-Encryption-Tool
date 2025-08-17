@@ -2,7 +2,7 @@
 
 A simple yet powerful web-based AES encryption and decryption tool built with **Python**, **Streamlit**, and the **`cryptography`** library. This tool helps users understand how AES works in different modes (ECB/CBC), generate secure keys and IVs, and visualize encrypted output in Base64 or Hex format.
 
-<img width="1821" height="994" alt="image" src="https://github.com/user-attachments/assets/c8dd5597-3373-4052-8852-7fe5cad74f5b" />
+<img width="846" height="1239" alt="Screenshot 2025-08-17 162955" src="https://github.com/user-attachments/assets/b1f0a718-ff3b-46a5-96e0-cc04a2c62efd" />
 
 *Screenshot: AES Encryption Tool in action (CBC mode, Base64 output)*
 
